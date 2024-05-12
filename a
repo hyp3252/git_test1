@@ -1,3 +1,9 @@
 asdlkfjasdlkf
 
 remote add 변수명 주소
+
+
+
+conda activate py37
+
+conda deactivate
