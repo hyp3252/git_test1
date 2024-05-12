@@ -3,7 +3,8 @@ asdlkfjasdlkf
 remote add 변수명 주소
 
 
+맥북에서 수정한 내용입니다.
 
-conda activate py37
+conda activate py37 // 윈도우에서 수정한 내용
 
-conda deactivate
+conda deactivate // 윈도우에서 수정한 내용
